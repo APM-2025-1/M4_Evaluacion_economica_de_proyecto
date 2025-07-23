@@ -501,6 +501,8 @@ De acuerdo a los indicadores, se determinó que el proyecto es **económicamente
 > Todos los cálculos presentados a lo largo se pueden consultar al descargar el siguiente archivo  
 [Excel](Evaluación%20Economica%20final.xlsx) (o ver su versión en  [pdf](Evaluación%20Economica%20final.pdf))
 
+> La oferta comercial se puede consultar en [Oferta Comercial - PDF](OFERTA%20COMERCIAL.pdf)
+
 
 
 
