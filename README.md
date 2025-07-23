@@ -388,6 +388,8 @@ Se halló el flujo de caja a partir del cruce de:
 
 Adicionlmente, se asumió una tasa impositiva del 35%.
 
+
+
  <details>
 
 | AÑO | MES | VENTAS | COSTO DE VENTAS | GASTOS   OPERACIONALES | INVERSIÓN | EBIT | IMPUESTOS | FC | FC Acumulado |
@@ -462,11 +464,28 @@ Adicionlmente, se asumió una tasa impositiva del 35%.
 ## 📌 <u>**7. Indicadores**</u>
 
 
-De acuerdo a los indicadores, se determinó que el proyecto es **económicamente viable**.
+El **Costo Promedio Ponderado de Capital (WACC)** se determinó con la siguiente formula:
+
+$$
+\text{WACC} = \left( \frac{E}{E + D} \right) \cdot Re + \left( \frac{D}{E + D} \right) \cdot Rd \cdot (1 - T)
+$$
+
+Donde:
+
+* $E$ = Valor del capital propio de la empresa =  $1.324.661.222
+* $D$ = Valor de la deuda = $883.107.481
+* $Re$ = Rentabilidad esperada del capital propio = 10,00% 
+* $Rd$ = Tasa de interés de la deuda = 15,00%
+* $T$ = Tasa impositiva = 35,00%
+
+De acuerdo con los anteriores valores tenemos que:
+* $WACC$ = Costo promedio ponderado de capital = **9,90%**
+  
 
 
-| VPN | $ 431.522.558 | El Valor Presente Neto positivo (VPN > 0)   indica que el proyecto es financieramente viable, ya que genera valor   adicional sobre el costo de capital. |
+|INDICADOR|VALOR|DESCRPCIÓN|
 |:---:|:---:|:---:|
+| VPN | $ 431.522.558 | El Valor Presente Neto positivo (VPN > 0)   indica que el proyecto es financieramente viable, ya que genera valor   adicional sobre el costo de capital. |
 | TIR | 14% | La Tasa Interna de Retorno (TIR) superior al   costo de capital (WACC) confirma que el proyecto es rentable, con un   rendimiento mayor al mínimo esperado por los inversionistas. |
 | PAYBACK | 8,04 | Es el tiempo necesario para recuperar la   inversión inicial a través de los flujos netos de caja generados por el   proyecto. En este caso, el retorno se logra en 8,04 meses. |
 | ROI | 1364% | El Retorno sobre la Inversión (ROI) muestra que   por cada peso invertido, se generaron 13,64 pesos de utilidad neta, lo que   representa un retorno excepcional. |
@@ -474,6 +493,8 @@ De acuerdo a los indicadores, se determinó que el proyecto es **económicamente
 | IR | 1,49 | La Relación Beneficio/Costo (Índice de   Rentabilidad) mayor a 1 indica que el valor presente de los ingresos supera   el de los costos, lo que hace al proyecto atractivo y rentable. |
 | Margen de   útilidad | 15,33% | Significa que por cada $100 de ventas, la   empresa retiene $15.33 como ganancia neta después de cubrir todos sus costos. |
 
+
+De acuerdo a los indicadores, se determinó que el proyecto es **económicamente viable**.
 
 
 
