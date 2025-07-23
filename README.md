@@ -29,7 +29,7 @@
     <summary>🗂️ Tabla de Contenido</summary>
 
 - [🧾 **1. Descripción del Proyecto**](#-1-descripción-del-proyecto)
-- [💵 **2. Inversión Inicial (CAPEX)**](#-2-inversión-inicial-capex)
+- [💵 **2. Inversión Inicial**](#-2-inversión-inicial)
   - [**Celda Róbotica**](#celda-róbotica)
   - [**Equipos/Componentes para la automatización**](#equiposcomponentes-para-la-automatización)
   - [**Honorarios Equipo de Ingenieros**](#honorarios-equipo-de-ingenieros)
@@ -68,7 +68,7 @@ Estas mejoras permitirán **reducir los tiempos de ciclo**, **mejorar la calidad
 
 ---
 
-## 💵 <u>**2. Inversión Inicial (CAPEX)**</u>
+## 💵 <u>**2. Inversión Inicial**</u>
 
 El valor total del proyecto es de $951.747.674 COP, distribuido así:
 
